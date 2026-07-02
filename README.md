@@ -14,13 +14,13 @@
 
 ### The given query is:
 
-```sql
+sql
 SELECT *
 FROM notifications
 WHERE studentID = 1042
   AND isRead = false
 ORDER BY createdAt ASC;
-```
+
 
 ### Is the Query Accurate?
 
@@ -32,9 +32,9 @@ Yes. The query correctly retrieves all unread notifications for a specific stude
 
 Where:
 
-```
+
 N = 5,000,000
-```
+
 
 We can use index to speed up the performance.
 
