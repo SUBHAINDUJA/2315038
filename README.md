@@ -2,9 +2,7 @@
 
 # Afformed Campus Hiring Evaluation
 
-## Stage 1 - Notification System REST API Design
 
-## Stage 2 - Application Schema
 
 ## Stage 3 - Query Optimisation and Cost
 
@@ -32,13 +30,5 @@ Where:
 N = 5,000,000
 
 
-We can use index to speed up the performance.
 
 
-## Stage 4 - Query Performance
-
-## Stage 5 - Redesigning to be Reliable and Fast
-
-## Stage 6 - To Fetch Notifications from the API
-
-## Stage 7 - Implementing Logging Middleware
