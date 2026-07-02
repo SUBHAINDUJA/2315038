@@ -4,11 +4,11 @@
 
 ## Stage 1 - Notification System REST API Design
 
----
+-
 
 ## Stage 2 - Application Schema
 
----
+-
 
 ## Stage 3 - Query Optimisation and Cost
 
